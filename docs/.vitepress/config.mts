@@ -15,12 +15,23 @@ export default defineConfig({
       provider: 'local'
     },
     nav: [
+      { text: '注解', link: '/annotations/' },
       { text: '指南', link: '/guide/core-concepts' },
-      { text: '参考', link: '/reference/annotations' },
+      { text: '参考', link: '/reference/generated-code' },
       { text: '开发', link: '/dev/project-structure' },
       { text: 'FAQ', link: '/faq' }
     ],
     sidebar: {
+      '/annotations/': [
+        {
+          text: '注解教程',
+          items: [
+            { text: '总览', link: '/annotations/' },
+            { text: '注解参考', link: '/annotations/reference' },
+            { text: '更新日志', link: '/annotations/changelog' }
+          ]
+        }
+      ],
       '/guide/': [
         {
           text: '指南',
@@ -37,7 +48,6 @@ export default defineConfig({
         {
           text: '参考',
           items: [
-            { text: '注解参考', link: '/reference/annotations' },
             { text: '生成代码详解', link: '/reference/generated-code' },
             { text: '插件配置参考', link: '/reference/plugin-config' },
             { text: '已知限制', link: '/reference/limitations' }

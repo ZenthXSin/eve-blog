@@ -1,7 +1,6 @@
-# 四、注解参考
+# 注解参考
 
-
-> 全部注解定义在 `annotations/src/main/kotlin/io/eve/ktannot/Annotations.kt`，`@Retention(SOURCE)`，运行时无反射开销。
+> 本页是 `kt-annotations` 注解处理器的完整注解清单与用法。全部注解定义在 `annotations/src/main/kotlin/io/eve/ktannot/Annotations.kt`，`@Retention(SOURCE)`，运行时无反射开销。
 
 ### 4.1 命名规则（生成器约定）
 
