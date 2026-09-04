@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/eve-blog/',
   title: 'kt-annotations',
   description: '纯 Kotlin 实现的 Mindustry 注解处理器：用注解驱动编译期生成实体组件、网络包、结构体、逻辑语句与贴图加载代码',
   lang: 'zh-CN',
