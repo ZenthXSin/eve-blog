@@ -17,6 +17,8 @@ export default defineConfig({
     nav: [
       { text: '注解', link: '/annotations/' },
       { text: '指南', link: '/guide/core-concepts' },
+      { text: '机制', link: '/mindustry/' },
+      { text: '项目', link: '/projects/' },
       { text: '参考', link: '/reference/generated-code' },
       { text: '开发', link: '/dev/project-structure' },
       { text: 'FAQ', link: '/faq' }
@@ -29,6 +31,33 @@ export default defineConfig({
             { text: '总览', link: '/annotations/' },
             { text: '注解参考', link: '/annotations/reference' },
             { text: '更新日志', link: '/annotations/changelog' }
+          ]
+        }
+      ],
+      '/mindustry/': [
+        {
+          text: '机制与踩坑',
+          items: [
+            { text: '总览', link: '/mindustry/' },
+            { text: '物品网络传输与接收端不输出', link: '/mindustry/item-network-transport' },
+            { text: '高版本 fragBullet 丢失原因', link: '/mindustry/fragbullet-loss' },
+            { text: '属性工厂按天气改变效率', link: '/mindustry/weather-attribute-efficiency' },
+            { text: '只攻击友军单位的炮塔', link: '/mindustry/friendly-targeting-turret' },
+            { text: '编译型 Java mod 特效 JSON 可配置', link: '/mindustry/effect-json-config' },
+            { text: '流体噪音效果 Shader 复刻', link: '/mindustry/fluid-shader-replica' },
+            { text: 'Tile Shader 世界坐标方案', link: '/mindustry/tile-shader-world-coords' },
+            { text: 'Arc Seq 为什么不实现 List', link: '/mindustry/arc-seq-why-not-list' },
+            { text: '传送带多方向连接的真相', link: '/mindustry/conveyor-multilink' }
+          ]
+        }
+      ],
+      '/projects/': [
+        {
+          text: '项目',
+          items: [
+            { text: '总览', link: '/projects/' },
+            { text: 'arc-ui-dsl', link: '/projects/arc-ui-dsl' },
+            { text: 'kt-annotations', link: '/annotations/' }
           ]
         }
       ],

@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Eve's Blog
   text: Mindustry 模组开发与 Kotlin 工程实践
-  tagline: 记录模组开发、注解处理器、工具链与日常踩坑 —— 当前收录 kt-annotations 项目文档
+  tagline: 记录模组开发、注解处理器、机制源码验证与日常踩坑 —— kt-annotations · arc-ui-dsl · 机制结论
   actions:
     - theme: brand
       text: 注解教程
@@ -12,6 +12,9 @@ hero:
     - theme: brand
       text: 项目文档
       link: /guide/core-concepts
+    - theme: alt
+      text: 机制与踩坑
+      link: /mindustry/
     - theme: alt
       text: FAQ
       link: /faq
@@ -42,4 +45,14 @@ features:
     title: FAQ 与许可证
     details: 常见问题解答与 MIT 许可证
     link: /faq
+  - icon:
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>'
+    title: 机制与踩坑
+    details: 源码验证过的机制结论：物品网络、fragBullet 门禁、天气属性、友军炮塔、shader 复刻等
+    link: /mindustry/
+  - icon:
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 17l6-6-6-6"/><path d="M12 19h8"/></svg>'
+    title: 项目
+    details: arc-ui-dsl（Arc UI Kotlin DSL）与 kt-annotations 等项目文档
+    link: /projects/
 ---
