@@ -1,10 +1,14 @@
-# 十、验证与测试
+---
+head:
+  - - meta
+    - name: robots
+      content: noindex
+  - - meta
+    - http-equiv: refresh
+    - content: "0; url=/eve-blog/kotlin/kt-annotations/10-testing.html"
+sidebar: false
+---
 
+# 页面已移动
 
-| 层级 | 位置 | 内容 | 状态 |
-|---|---|---|---|
-| stub 单测 | `tests/` | 位打包往返 / Packet write-read / LogicIO 注册 | ✅ 3/3 |
-| headless 实机 | `realmod/` | KTA-STRUCT/SYNC/GROUP/LOGIC/REMOTE/FULLUNIT/BUILD/VUNIT/VSIMPLE 共 9 项自检 | ✅ |
-| full 客户端 | `mindustry-mod-validator-full` | 贴图加载、shader 编译、无运行时错误 | ✅ |
-| 单元测试记录 | `GenRuntimeTest.kt` | `coordBitPacking` / `packetWriteRead` / `logicStatementRegistered` | ✅ |
-
+本页已迁移到 [kotlin/kt-annotations/10-testing](../kotlin/kt-annotations/10-testing)。若未自动跳转，请点击上方链接。

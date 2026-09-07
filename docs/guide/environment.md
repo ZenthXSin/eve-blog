@@ -1,8 +1,14 @@
-# 二、环境要求
+---
+head:
+  - - meta
+    - name: robots
+      content: noindex
+  - - meta
+    - http-equiv: refresh
+    - content: "0; url=/eve-blog/kotlin/kt-annotations/02-environment.html"
+sidebar: false
+---
 
+# 页面已移动
 
-- JDK 17+
-- Gradle 8.11+（仓库自带 wrapper 8.11.1）
-- Kotlin 2.2.0（KGP 与生成器内部 kotlin-compiler-embeddable 同版本）
-- Mindustry 目标版本：v159.7（验证基线）
-
+本页已迁移到 [kotlin/kt-annotations/02-environment](../kotlin/kt-annotations/02-environment)。若未自动跳转，请点击上方链接。
