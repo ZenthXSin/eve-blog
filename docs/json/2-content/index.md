@@ -5,10 +5,10 @@
 ## 已收录
 
 - [物品与液体：第一份内容](./1-item-and-fluid) —— 物品/液体 JSON 字段表、验证过的完整示例、常见坑
+- [第一个方块：GenericCrafter 加工方块](./2-first-block) —— 加工方块字段对照、consumes 写法、验证过的示例
 
 ## 计划中（待补）
 
-- 方块 blocks：从 `GenericCrafter` 起步的加工方块
 - 单位 units：地面/飞行单位的最小定义
 - 炮塔 turrets：`type: turret` 与子弹定义
 - 科技树：`research` 与解锁顺序
