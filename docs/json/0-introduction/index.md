@@ -91,3 +91,4 @@ run-full.sh my-mod/
 - 内部 ID 来自文件名，显示名来自 JSON 里的 `name` 字段
 - 目录名固定（`items`、`liquids`、`blocks`…），放错位置会静默失败
 - 下一步：读 [内容定义：物品与液体](../2-content/1-item-and-fluid)，开始定义你的第一份内容
+- 完全没接触过 JSON？先读 [JSON 语法十分钟速通](./2-json-basics)
