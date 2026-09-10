@@ -33,6 +33,7 @@ const viteConfig = defineConfig({
       provider: 'local'
     },
     nav: [
+      { text: '主页', link: '/' },
       { text: 'Json', link: '/json/' },
       { text: 'Java', link: '/java/' },
       { text: 'Kotlin', link: '/kotlin/' },
