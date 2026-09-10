@@ -36,7 +36,8 @@ const viteConfig = defineConfig({
       { text: 'Json', link: '/json/' },
       { text: 'Java', link: '/java/' },
       { text: 'Kotlin', link: '/kotlin/' },
-      { text: '机制与踩坑', link: '/mindustry/' }
+      { text: '机制与踩坑', link: '/mindustry/' },
+      { text: '番外日常', link: '/extras/' }
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/ZenthXSin/eve-blog' }
@@ -51,5 +52,5 @@ const viteConfig = defineConfig({
 })
 
 export default defineConfig(
-  withSidebar(viteConfig, [track('json'), track('java'), track('kotlin'), track('mindustry')])
+  withSidebar(viteConfig, [track('json'), track('java'), track('kotlin'), track('mindustry'), track('extras')])
 )
