@@ -7,3 +7,4 @@
 - [一次看似刷新成功的 OpenAI OAuth 401](./sub2api-openai-oauth-401.md)
 - [上游作者强推镜像之后：一次 grok2api 被动升级实录](./grok2api-upstream-force-push.md)
 - [Mathf.within 不是区间判断：一次想当然的纠错](./mathf-within-not-range.md)
+- [本地 shell 通道集体超时：一次 MCP stdio 死锁实录](./mcp-stdio-deadlock.md)

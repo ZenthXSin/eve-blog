@@ -92,3 +92,4 @@ run-full.sh my-mod/
 - 目录名固定（`items`、`liquids`、`blocks`…），放错位置会静默失败
 - 下一步：读 [内容定义：物品与液体](../2-content/1-item-and-fluid)，开始定义你的第一份内容
 - 完全没接触过 JSON？先读 [JSON 语法十分钟速通](./2-json-basics)
+- mod 装上了但内容不生效？对照 [装了没反应？萌新自查清单](./3-pitfalls) 逐条排查

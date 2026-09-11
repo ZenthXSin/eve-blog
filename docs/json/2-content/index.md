@@ -8,7 +8,8 @@
 - [第一个方块：GenericCrafter 加工方块](./2-first-block) —— 加工方块字段对照、consumes 写法、验证过的示例
 - [第一座炮塔：ItemTurret 与子弹定义](./3-first-turret) —— ammoTypes 映射、BulletType 字段表、射程/装填源码对照
 - [第一个单位：UnitType 与武器](./4-first-unit) —— type 实体类型表、核心字段、AI 控制器、武器挂载、验证过的示例
+- [科技树：research 字段怎么写](./5-tech-tree) —— research 字符串/对象两种写法、隐藏行为、常见坑
 
 ## 计划中（待补）
 
-- 科技树：`research` 与解锁顺序
+- 武器与单位的进阶字段

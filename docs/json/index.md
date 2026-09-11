@@ -6,6 +6,6 @@
 
 - [介绍](./0-introduction/) —— 最小 mod 结构与内容加载机制
 - [环境与文件结构](./1-environment/) —— mod 目录、mod.json 元数据、content/ 类型文件夹映射
-- [内容定义](./2-content/) —— 待补
+- [内容定义](./2-content/) —— 物品/液体、方块、炮塔、单位、科技树 research
 - [进阶](./3-advanced/) —— 待补
 - [附录](./9-appendix/) —— 待补
