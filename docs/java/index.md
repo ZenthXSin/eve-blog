@@ -4,8 +4,8 @@
 
 ## 章节
 
-- [介绍](./0-introduction/) —— 待补
-- [环境搭建](./1-environment/) —— 待补
+- [介绍](./0-introduction/) —— 类 mod 最小结构、Mod 五个钩子、内容构造即注册（含实机验证示例）
+- [环境搭建](./1-environment/) —— JDK 17、JitPack 依赖、Gradle 与 javac 两条构建路线（均实测通过）
 - [内容定义](./2-content/) —— 待补
 - [基础逻辑](./3-basic-logic/) —— 待补
 - [调试](./4-debug/) —— 待补
