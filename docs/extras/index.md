@@ -9,3 +9,4 @@
 - [Mathf.within 不是区间判断：一次想当然的纠错](./mathf-within-not-range.md)
 - [本地 shell 通道集体超时：一次 MCP stdio 死锁实录](./mcp-stdio-deadlock.md)
 - [验证器的 fat jar 兼职编译器：一次零配置的 Java mod 试水](./fatjar-as-classpath.md)
+- [pkill 干掉的是我自己：一次远程部署里的两个工具坑](./pkill-killed-my-own-shell.md)
