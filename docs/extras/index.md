@@ -10,3 +10,4 @@
 - [本地 shell 通道集体超时：一次 MCP stdio 死锁实录](./mcp-stdio-deadlock.md)
 - [验证器的 fat jar 兼职编译器：一次零配置的 Java mod 试水](./fatjar-as-classpath.md)
 - [pkill 干掉的是我自己：一次远程部署里的两个工具坑](./pkill-killed-my-own-shell.md)
+- [从 22 分钟到 1 分钟：一次部署脚本的写回风暴排障](./deploy-writeback-storm.md)

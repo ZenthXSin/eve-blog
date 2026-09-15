@@ -28,7 +28,7 @@ features:
   - icon:
       svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>'
     title: Java 模组教程
-    details: 已开篇：最小类 mod 与 Mod 生命周期、环境搭建与构建；内容、逻辑、绘制、UI、Shader 陆续补写
+    details: 已开篇：最小类 mod 与 Mod 生命周期、环境搭建与构建、内容定义与 Build 类、方块基础逻辑（定时器/查询/伤害/事件/联机）；绘制、UI、Shader 陆续补写
     link: /java/
   - icon:
       svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"/><line x1="7" y1="7" x2="7.01" y2="7"/></svg>'

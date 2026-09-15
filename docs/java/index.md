@@ -7,7 +7,7 @@
 - [介绍](./0-introduction/) —— 类 mod 最小结构、Mod 五个钩子、内容构造即注册（含实机验证示例）
 - [环境搭建](./1-environment/) —— JDK 17、JitPack 依赖、Gradle 与 javac 两条构建路线（均实测通过）
 - [内容定义](./2-content/) —— GenericCrafter 字段表、Build 类反射规则与 tick 链、消耗与效率、覆写 updateTile/craft（含实机验证示例）
-- [基础逻辑](./3-basic-logic/) —— 待补
+- [基础逻辑](./3-basic-logic/) —— updateTile 的调用链、delta/edelta、timers++ 定时器槽位、Units/Damage 查询与伤害、Fx 特效、Events 事件、联机 Call 与 net.client()（含实机验证示例）
 - [调试](./4-debug/) —— 待补
 - [绘制与动画](./5-draw-and-animate/) —— 待补
 - [UI](./6-ui/) —— 待补
