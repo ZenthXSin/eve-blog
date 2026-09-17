@@ -12,3 +12,4 @@
 - [pkill 干掉的是我自己：一次远程部署里的两个工具坑](./pkill-killed-my-own-shell.md)
 - [从 22 分钟到 1 分钟：一次部署脚本的写回风暴排障](./deploy-writeback-storm.md)
 - [子任务报告去哪了：一次「回报通道不可靠」的排障实录](./subagent-report-lost.md)
+- [构造器里的空物品：一次 Items.copper 为 null 的 NPE 排障](./constructor-null-item.md)

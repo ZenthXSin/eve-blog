@@ -9,7 +9,7 @@
 - [内容定义](./2-content/) —— GenericCrafter 字段表、Build 类反射规则与 tick 链、消耗与效率、覆写 updateTile/craft（含实机验证示例）
 - [基础逻辑](./3-basic-logic/) —— updateTile 的调用链、delta/edelta、timers++ 定时器槽位、Units/Damage 查询与伤害、Fx 特效、Events 事件、联机 Call 与 net.client()（含实机验证示例）
 - [调试](./4-debug/) —— Log 打点与 @ 占位符、级别过滤、验证器报告解读、主类加载失败与 ClassNotFoundException、依赖误打包检测（含实机验证示例）
-- [绘制与动画](./5-draw-and-animate/) —— 待补
+- [绘制与动画](./5-draw-and-animate/) —— 绘制入口 draw()/drawrot()、Draw 原语与 Layer 图层、drawer 系统（DrawDefault/DrawRegion/DrawMulti 与 JSON 写法）、覆写 draw() 自定义绘制、Effect 特效与 startDelay（含实机验证示例）
 - [UI](./6-ui/) —— 待补
 - [程序结构](./7-program-structure/) —— 待补
 - [OpenGL 与 Shader](./8-opengl/) —— 待补
